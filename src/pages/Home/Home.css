@@ -58,7 +58,7 @@
 }
 
 @media (max-width: 1024px){
-    .hero-caption .title-card{
+    .hero-caption .title-cards{
         display: none;
     }
     .hero-btns{
